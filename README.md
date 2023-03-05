@@ -79,3 +79,5 @@ ChatGPT directly integrated into Google Docs 📑
 
 10. Wait for your result! (Word may become temporarily unresponsive while waiting for the result)
 
+NOTES: You may have adjust your "Macro Security Code" settings. You may also have to go to "View / Macros / View Macros", choose created above macro and click "Run".
+
